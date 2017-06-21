@@ -96,7 +96,7 @@ Conversation Exchange Websites are a fantastic idea and you can study english wi
 - [Ego4u](http://www.ego4u.com) - Grammar and tests.
 - [Duolingo](https://www.duolingo.com) - Free language-learning platform that includes a language-learning website and app, as well as a digital language proficiency assessment exam.
 - [LingoRank](http://lingorank.com) - Test and improve your english listening skills with TED talks.
-- [MemRise] (http://memrise.com) - Memorize english or other langue words and phrases.
+- [Memrise](http://memrise.com) - Memorize english or other langue words and phrases.
 
 ## Tools
 
